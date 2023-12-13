@@ -1,0 +1,1 @@
+# Fourier-Series-Analysis-and-Visualization-on-Tehran-Stock-Index-Data
